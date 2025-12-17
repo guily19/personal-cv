@@ -50,34 +50,20 @@ Developed and maintained full-stack applications as part of a dynamic engineerin
 **Technologies:** React.js, Node.js, AWS, Jenkins, MongoDB, Git, JavaScript, TypeScript
 
 
-### Software Engineer
-**TRE ALTAMIRA S.L.** | Barcelona, Spain | *2016 - 2018*
+### Software Engineer / Developer
+**TRE ALTAMIRA S.L.** | Barcelona, Spain | *2014 - 2018*
 
-Developed geospatial web applications and cloud-based solutions for analyzing InSAR satellite data.
-
-**Key Responsibilities & Achievements:**
-- Developed and maintained WebGIS application enabling customers to analyze and visualize InSAR results on interactive map layers
-- Built RdrEYE application on Google Cloud Platform to scan, download, and display SENTINEL-1 satellite images from CNES
-- Created automated data processing pipelines using BASH scripts
-- Implemented microservices architecture and applied TDD methodologies
-- Designed database schemas and optimized queries for performance
-
-**Technologies:** Node.js, Angular 2, MongoDB, Google Cloud Platform, Git, Microservices, TDD
-
-
-### Software Developer
-**TRE ALTAMIRA S.L.** | Barcelona, Spain | *2014 - 2016*
-
-Developed cross-platform mobile applications and backend services.
+Developed geospatial web applications, cross-platform mobile applications, and cloud-based solutions for analyzing InSAR satellite data.
 
 **Key Responsibilities & Achievements:**
-- Built mobile applications using Ionic 2 framework for cross-platform deployment
-- Developed backend APIs and business logic with Node.js
-- Administered MongoDB databases ensuring high availability and performance
-- Created comprehensive technical documentation
-- Presented final degree project based on this work
+- Developed WebGIS application for analyzing and visualizing InSAR satellite results on interactive map layers
+- Built RdrEYE application on Google Cloud Platform to process and display SENTINEL-1 satellite images from CNES
+- Created cross-platform mobile applications using Ionic 2 framework
+- Developed backend APIs and microservices architecture with TDD methodologies
+- Administered MongoDB databases and optimized queries for performance
+- Presented final degree project based on mobile application development work
 
-**Technologies:** Ionic 2, Node.js, MongoDB, Git
+**Technologies:** Node.js, Angular 2, Ionic 2, MongoDB, Google Cloud Platform, Git, Microservices, TDD
 
 
 ### System Administration Support and Help Desk
