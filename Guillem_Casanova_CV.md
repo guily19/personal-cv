@@ -1,7 +1,7 @@
 # Guillem Casanova
 **Senior Software Developer**
 
-📍 Amadeu I, 7, El Masnou, Barcelona
+📍 Barcelona, 55, El Masnou, Barcelona
 📞 +34 662 571 386
 📧 guillemcasanova@gmail.com
 
@@ -15,7 +15,7 @@ Senior Full-Stack Software Developer with 15+ years of experience in the IT indu
 
 ## Work Experience
 
-### Senior Software Developer
+### Senior Software Engineer
 **Boats Group** | Barcelona, Spain | *2024 - Present*
 
 Leading full-stack development initiatives across multiple interconnected projects within a complex microservices ecosystem.
@@ -33,7 +33,7 @@ Leading full-stack development initiatives across multiple interconnected projec
 **Technologies:** React.js, Node.js, AWS (CodeBuild, CodePipeline, Lambda, EC2, S3, CloudFormation), Terraform, Jest, Git
 
 
-### Software Developer
+### Software Engineer
 **Boats Group** | Barcelona, Spain | *2019 - 2024*
 
 Developed and maintained full-stack applications as part of a dynamic engineering team, working across multiple teams and adapting seamlessly to organizational changes.
