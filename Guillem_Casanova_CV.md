@@ -16,7 +16,7 @@ Senior Full-Stack Software Developer with 15+ years of experience in the IT indu
 ## Work Experience
 
 ### Senior Software Engineer
-**Boats Group** | Barcelona, Spain | *2024 - Present*
+**Boats Group** | Barcelona, Spain | *2023 - Present*
 
 Leading full-stack development initiatives across multiple interconnected projects within a complex microservices ecosystem.
 
@@ -33,7 +33,7 @@ Leading full-stack development initiatives across multiple interconnected projec
 
 
 ### Software Engineer
-**Boats Group** | Barcelona, Spain | *2019 - 2024*
+**Boats Group** | Barcelona, Spain | *2019 - 2023*
 
 Developed and maintained full-stack applications as part of a dynamic engineering team, working across multiple teams and adapting seamlessly to organizational changes.
 
