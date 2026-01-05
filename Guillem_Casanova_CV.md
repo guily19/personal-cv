@@ -27,7 +27,6 @@ Leading full-stack development initiatives across multiple interconnected projec
 - Architect and maintain scalable solutions across a diverse technology stack with multiple service integrations
 - **Deliver technical presentations to engineering teams** on advanced topics including AI-assisted development (Claude AI), Web Core Vitals optimization, and best practices
 - Successfully collaborate across multiple teams with excellent adaptability to organizational changes
-- Mentor junior developers and contribute to technical decision-making
 - Ensure code quality through comprehensive testing strategies (Jest, TDD)
 
 **Technologies:** React.js, Node.js, AWS (CodeBuild, CodePipeline, Lambda, EC2, S3, CloudFormation), Terraform, Jest, Git
@@ -42,7 +41,6 @@ Developed and maintained full-stack applications as part of a dynamic engineerin
 - Built responsive web applications using React.js and modern JavaScript frameworks
 - Developed RESTful APIs and backend services with Node.js
 - Managed infrastructure deployment and configuration on AWS
-- Implemented CI/CD pipelines using Jenkins for automated testing and deployment
 - Collaborated effectively across multiple cross-functional teams with strong adaptability
 - Participated in code reviews and established best practices for the development team
 - Shared knowledge through technical presentations to engineering teams
@@ -71,22 +69,6 @@ Developed geospatial web applications, cross-platform mobile applications, and c
 
 Provided technical support and system administration services for the School of Industrial Engineering.
 
-**Key Responsibilities:**
-- Windows 7 system administration and troubleshooting
-- User support and technical assistance
-- Team collaboration on IT infrastructure projects
-
-
-### Additional Experience
-
-**Parsing Realizer** | Panablanca | Barcelona, Spain | *2012*
-- Developed PHP web scraping scripts to extract and parse product data
-- Performed data analysis and quality assurance
-
-**Event Stewards Coordinator** | ABGrupo | Barcelona, Spain | *2009 - 2013*
-- Coordinated teams of stewards for public and private events
-- Demonstrated leadership and public relations skills
-
 ---
 
 ## Education
@@ -111,7 +93,7 @@ Provided technical support and system administration services for the School of 
 JavaScript, TypeScript, Node.js, C, C++, Java, PHP, Python, Bash
 
 ### Frontend Development
-React.js, Angular, HTML5, CSS3, Responsive Design
+React.js, HTML5, CSS3, Responsive Design
 
 ### Backend Development
 Node.js, Express.js, RESTful APIs, Microservices
@@ -133,24 +115,12 @@ Jest, Test-Driven Development (TDD), Unit Testing, Integration Testing
 ### Tools & Methodologies
 Git/GitHub, Agile/Scrum, Microservices Architecture, REST APIs, Version Control
 
-### System Administration
-Linux, macOS, Windows, System Configuration & Troubleshooting
-
 ---
 
 ## Languages
 
-- **Catalan:** Native
-- **Spanish:** Native
+- **Catalan / Spanish:** Native
 - **English:** Fluent (spoken and written)
-
----
-
-## Additional Information
-
-- **Driving License:** B (own vehicle)
-- **Work Authorization:** EU citizen
-- **Availability:** Immediate
 
 ---
 
